@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Anna Fridman",
+        "age": 39,
+        "acountNumber": 1
+    },
+    {
+        "name": "Sophie Fridman",
+        "age": 8,
+        "acountNumber": 2
+    },
+    {
+        "name": "Stas Fridman",
+        "age": 40,
+        "acountNumber": 3
+    }
+]

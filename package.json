@@ -1,0 +1,19 @@
+{
+  "name": "rest-api-users-homework",
+  "version": "1.0.0",
+  "description": "rest Api firdt server",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "load-json": "^0.0.1",
+    "load-json-file": "^6.2.0",
+    "nodemon": "^2.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.mjs"
+  },
+  "author": "",
+  "license": "ISC"
+}
